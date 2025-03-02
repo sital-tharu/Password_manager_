@@ -1,3 +1,5 @@
 # Password_manager-
 To organize and store pasowords
-Author Sital tharu
+Author Sital SF
+
+
